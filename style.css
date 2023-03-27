@@ -90,6 +90,9 @@ ol{
 
 /* responsive */
 @media only screen and (max-width: 576px) {
+    ul{
+        gap: 25px;
+    }
     .desktop{
         display: none;
     }
